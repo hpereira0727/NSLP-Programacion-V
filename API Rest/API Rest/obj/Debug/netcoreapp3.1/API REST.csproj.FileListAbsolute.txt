@@ -1,0 +1,20 @@
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\bin\Debug\netcoreapp3.1\API REST.exe
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\bin\Debug\netcoreapp3.1\API REST.deps.json
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\bin\Debug\netcoreapp3.1\API REST.runtimeconfig.json
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\bin\Debug\netcoreapp3.1\API REST.runtimeconfig.dev.json
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\bin\Debug\netcoreapp3.1\API REST.dll
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\bin\Debug\netcoreapp3.1\API REST.pdb
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\API REST.csproj.AssemblyReference.cache
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\API REST.AssemblyInfoInputs.cache
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\API REST.AssemblyInfo.cs
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\API REST.csproj.CoreCompileInputs.cache
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\API REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\staticwebassets\API REST.StaticWebAssets.Manifest.cache
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\staticwebassets\API REST.StaticWebAssets.xml
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\scopedcss\bundle\API REST.styles.css
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\API REST.RazorTargetAssemblyInfo.cache
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\API REST.dll
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\API REST.pdb
+C:\Users\hpereira\Desktop\PV\NSLP-Programacion-V\API REST\API REST\obj\Debug\netcoreapp3.1\API REST.genruntimeconfig.cache
