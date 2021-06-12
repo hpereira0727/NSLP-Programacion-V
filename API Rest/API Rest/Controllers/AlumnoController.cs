@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using API_REST.Modelos;
+using API_REST.Repositorios;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -14,24 +16,31 @@ namespace API_REST.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            RPAlumno rpCli = new RPAlumno();
-            return Ok(rpCli.ObtenerClientes());
+            RPAlumno rpAlum = new RPAlumno();
+            return Ok(rpAlum.ObtenerAlumnos());
         }
 
         [HttpGet("{id}")]
         public IActionResult Get(int id)
         {
-            RPClientes rpCli = new RPClientes();
+            RPAlumno rpAlum = new RPAlumno();
 
-            var cliRet = rpCli.ObtenerCliente(id);
+            var AlumRet = rpAlum.ObtenerAlumno(id);
 
-            if (cliRet == null)
+            if (AlumRet == null)
             {
-                var nf = NotFound("El cliente " + id.ToString() + " no existe.");
+                var nf = NotFound("El alumno " + id.ToString() + " no existe.");
                 return nf;
             }
 
-            return Ok(cliRet);
+            return Ok(AlumRet);
+        }
+        [HttpPost("agregar")]
+        public IActionResult AgregarAlumno(Alumno nuevoAlumno)
+        {
+            RPAlumno rpAlum = new RPAlumno();
+            rpAlum.Agregar(nuevoAlumno);
+            return CreatedAtAction(nameof(AgregarAlumno), nuevoAlumno);
         }
     }
 }

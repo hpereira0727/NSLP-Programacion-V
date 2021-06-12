@@ -10,8 +10,7 @@ namespace API_REST.Repositorios
     {
         public static List<Alumno> _listaAlumnos = new List<Alumno>()
         {
-            new Alumno() { Id = 1, Nombre = "Alumno 1" , Apellido = "Apellido 1" },
-
+            new Alumno() { Id = 1, DNI= 32852637, Nombre = "Hernan" , Apellido = "Pereira",Curso= "Prog V", Ano= "2021"},
         };
 
         public IEnumerable<Alumno> ObtenerAlumnos()
@@ -21,7 +20,7 @@ namespace API_REST.Repositorios
 
         public Alumno ObtenerAlumno(int id)
         {
-            var Alumno = _listaAlumnos.Where(cli => cli.DNI == dni);
+            var Alumno = _listaAlumnos.Where(Alum => Alum.Id == id);
 
             return Alumno.FirstOrDefault();
         }

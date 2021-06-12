@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6CD7D245-7932-4F3E-993C-C53DA92BAEF1}|Default">
+  <MonoDevelop.Ide.ItemProperties.API_220REST PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API Rest" expanded="True">
+            <Node name="API REST" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Modelos" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositorios" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
