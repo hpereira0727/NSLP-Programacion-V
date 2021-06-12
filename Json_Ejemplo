@@ -1,0 +1,16 @@
+[
+    {
+      "dni":"11111111",
+      "nombre":"Name1",
+      "apellido": "LasnName1",
+      "curso": "Programación V",
+	  "año": 2020
+    },
+    {
+      "dni":"22222222",
+      "nombre":"Name2",
+      "apellido": "LasnName2",
+	  "curso": "Programación V",
+      "año": 2020
+    } 
+]
